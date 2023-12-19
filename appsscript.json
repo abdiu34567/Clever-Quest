@@ -1,0 +1,18 @@
+{
+  "timeZone": "Africa/Nairobi",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "Bot",
+        "version": "1",
+        "libraryId": "1UEBSz8k-wBSBEBZ2mZUo09k8ethHHuo3eDnf1HGF_16aHMtDFrRqS2Rh"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "webapp": {
+    "executeAs": "USER_DEPLOYING",
+    "access": "ANYONE_ANONYMOUS"
+  }
+}
